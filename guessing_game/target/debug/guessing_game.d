@@ -1,0 +1,1 @@
+C:\Users\ionbl\Documents\projects\rust\hello-world\rust-guessing-game\guessing_game\target\debug\guessing_game.exe: C:\Users\ionbl\Documents\projects\rust\hello-world\rust-guessing-game\guessing_game\src\main.rs
